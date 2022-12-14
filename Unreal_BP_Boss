@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T16:15:08.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lcTQVYC4wd39KeRRQrDr" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T16:15:19.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tQKQprhM5ASjFRIb8OaO" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2921" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="Xw_-vRl6OQW2SeqdLmWc-81" value="보이기 설정&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" y="798" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw_-vRl6OQW2SeqdLmWc-82" value="자식에게 전파" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-200" y="730" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
