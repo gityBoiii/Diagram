@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:36:56.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="IgsfHrl8o8C-SMd8lnI7" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T15:37:14.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eeXFGOIwllHkxYRp9Zie" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="485" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="Xw_-vRl6OQW2SeqdLmWc-12" value="&#39;목표고정&#39;&amp;nbsp; 보이기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="434" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw_-vRl6OQW2SeqdLmWc-14" value="설계도_보스_기본" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395.5" y="50" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
