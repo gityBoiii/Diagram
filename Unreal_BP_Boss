@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T07:00:05.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0vXH5KBQn6TKL11iQWn1" version="20.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-16T07:09:20.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Bbp4eNiSWLPIvQl_e-_q" version="20.7.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="이벤트 그래프">
     <mxGraphModel dx="3773" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -253,9 +253,11 @@
             <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dtf3IwJHPUSgBwZ84CKu-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="157" width="106" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://app.diagrams.net/#HgityBoiii%2FDiagram%2Fmaster%2FBPC_Boss_Behavior" id="dtf3IwJHPUSgBwZ84CKu-1">
+          <mxCell style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="340" y="157" width="106" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -337,6 +339,14 @@
         <mxCell id="lprCQKF61ggdOBPeYp-D-29" value="데미지 받기" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="398" y="170" width="80" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BzjsK7loL89EdCVNJvnw" name="페이지-3">
+    <mxGraphModel dx="4097" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
